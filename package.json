@@ -51,5 +51,8 @@
     "node-mocks-http": "^1.11.0",
     "prettier": "^2.6.2",
     "typescript": "^4.7.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/motoha0827/easy-notion-blog.git",
+  "author": "Akimoto <82797330+motoha0827@users.noreply.github.com>"
 }
